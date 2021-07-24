@@ -1,0 +1,20 @@
+body{
+    background-color: lightgoldenrodyellow;
+    background-size: 50rem;
+}
+.signUp-form{
+    background-color: white;
+    border-radius: 1rem;
+    position: relative;
+    border: grey;
+    width: 50vw;
+    margin-top: 16vh;
+    margin-left: 25vw;
+    padding: 0rem 3rem 3rem 3rem;
+}
+.companyLogo{
+    color: black;
+    text-align: center;
+    margin-bottom: 1rem;
+    font-size: 5rem;
+}

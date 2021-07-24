@@ -1,0 +1,12 @@
+.makePost-form-container {
+    background-color: white;
+    padding: 1.5rem;
+    margin: 25%;
+    margin-top: 10%;
+    width: 50%;
+}
+
+.submit:hover{
+    background-image: linear-gradient(red , yellow);
+    padding: 0.6rem;
+}
